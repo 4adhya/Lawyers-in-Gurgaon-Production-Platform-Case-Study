@@ -19,7 +19,7 @@ It helps visitors:
 * Access service-specific legal guidance pages
 * View advocate profiles and legal team information
 
-Important: This platform does **not operate as a law firm** and does **not directly provide legal representation**. Representation, drafting, and court-related work are handled independently after professional assessment
+Important: This platform does **not operate as a law firm** and does **not directly provide legal representation**. Representation, drafting, and court-related work are handled independently after professional assessment.
 
 ## ⚖️ Practice Areas Covered
 
