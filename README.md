@@ -37,7 +37,7 @@ The website currently includes legal information and consultation pathways for:
 
 ## 👩‍⚖️ Legal Team
 
-The platform includes advocate profile pages and legal team presentation for practicing advocates handling Gurgaon-related matters
+The platform includes advocate profile pages and legal team presentation for practicing advocates handling Gurgaon-related matters.
 
 Example featured profile:
 
