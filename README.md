@@ -64,7 +64,7 @@ Example featured profile:
 
 ## 🎯 Purpose
 
-The goal of this project is to create a highly practical legal discovery platform where users can understand legal options clearly before initiating consultation
+The goal of this project is to create a highly practical legal discovery platform where users can understand legal options clearly before initiating consultation.
 
 ## 📈 Ongoing Development
 
